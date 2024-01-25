@@ -1,4 +1,4 @@
-# flask-auth-ex1
+# flask-auth-ex2
 
 ## Install
 
