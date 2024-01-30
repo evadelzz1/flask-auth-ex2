@@ -1,10 +1,10 @@
 # Flask modules
 from flask import Flask
 
-
 def create_app(debug: bool = False) -> Flask:
     # Initialize app
-    app = Flask(__name__, template_folder='../templates', static_folder='../static', static_url_path='/')
+    app = Flask(__name__)
+    # app = Flask(__name__, template_folder='../templates', static_folder='../static', static_url_path='/')
 
     # Setup app configs
     app.config['DEBUG'] = debug
