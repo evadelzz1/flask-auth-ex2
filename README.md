@@ -16,13 +16,6 @@
 
     https://github.com/riad-azz/flask-auth-example
 
-# Reference
-
-[Chatbots (on LangChain)](https://python.langchain.com/docs/use_cases/chatbots)
-
-[Youtube : Create a ChatGPT clone using Streamlit and LangChain]
-(https://www.youtube.com/watch?v=IaTiyQ2oYUQ)
-
 
 
 ## Flask Authentication Example
